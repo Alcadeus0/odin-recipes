@@ -1,10 +1,10 @@
 * {
-    background-color: khaki;
+    background-color: rgb(34, 199, 34);
     font-family: cursive;
 }
 
 .head {
-    background-color: lightcoral;
+    background-color: rgb(255, 213, 97);
     color: hsl(0, 97%, 12%);
     font-size: 50px;
     font-weight: bold;
@@ -20,10 +20,10 @@
     height: auto;
 }
 #ing {
-    background-color: mediumaquamarine;
+    background-color:rgb(104, 17, 24);
 }
 #meth {
-    background-color:mediumaquamarine;
+    background-color:rgb(107, 17, 24);
 }
 li {
     font-size: 25px;
