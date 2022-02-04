@@ -1,0 +1,27 @@
+* {
+    background-color: khaki;
+    font-family: cursive;
+}
+
+.heading {
+    background-color: lightcoral;
+    color: hsl(0, 97%, 12%);
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+.topic {
+    font-size: 50px;
+    text-align: left;
+    font-family: monospace;
+}
+#pic {
+    width: 200px;
+    height: auto;
+}
+#ing {
+    background-color: mediumaquamarine;
+}
+#meth {
+    background-color:mintcream;
+}
