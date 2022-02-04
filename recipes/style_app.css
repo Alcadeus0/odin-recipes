@@ -1,11 +1,11 @@
 * {
-    background-color: hsla(189, 95%, 47%, 0.267);
+    background-color: rgb(34, 199, 34);
     font-family: cursive;
 }
 
 .head {
-    background-color: hsl(54, 96%, 54%);
-    color: #ee1b8f;
+    background-color: rgb(255, 213, 97);
+    color: hsl(0, 97%, 12%);
     font-size: 50px;
     font-weight: bold;
     text-align: center;
@@ -20,10 +20,10 @@
     height: auto;
 }
 #ing {
-    background-color:rgba(196, 156, 241, 0.678);
+    background-color:rgba(104, 17, 24, 0.34);
 }
 #meth {
-    background-color:rgba(196, 156, 241, 0.678);
+    background-color:rgba(107, 17, 24, 0.34);
 }
 li {
     font-size: 25px;
