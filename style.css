@@ -1,0 +1,22 @@
+* {
+    background-color: aquamarine;
+}
+
+#heading {
+    background-color: bisque;
+    color: cornflowerblue;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: fantasy, sans-serif;
+    text-align: center;
+}
+
+.lin {
+    color: rgb(22, 16, 14);
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+    font-size: 25px;
+    color: firebrick;
+}
